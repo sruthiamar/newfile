@@ -4,3 +4,7 @@ linux
 git 
 github
 anisible
+python 
+terraform
+docker
+k8s
