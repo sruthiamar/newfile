@@ -8,3 +8,6 @@ python
 terraform
 docker
 k8s
+maven
+sonaqube
+nexus
